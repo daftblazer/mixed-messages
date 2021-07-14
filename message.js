@@ -15,4 +15,5 @@ const randomQuote = () => {
     return console.log(motivationalQuotes[randomNumber]);
 }
 
+//Displaying the random quote to the console
 randomQuote();

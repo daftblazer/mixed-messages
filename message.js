@@ -9,9 +9,11 @@ const quote5 = 'When something is important enough, you do it even if the odds a
 const quote6 = 'Only I can change my life. No one can do it for me';
 const quote7 = 'Problems are not stop signs, they are guidelines';
 const quote8 = 'The first step towards success is taken when you refuse to be a captive of the environment in which you first find yourself';
+const quote9 = 'You will never win if you never begin';
+const quote10 = 'Either I will find a way, or I will make one';
 
 //Store the quotes in an array
-const motivationalQuotes = [quote1, quote2, quote3, quote4, quote5, quote6, quote7, quote8];
+const motivationalQuotes = [quote1, quote2, quote3, quote4, quote5, quote6, quote7, quote8, quote9, quote10];
 
 //Choosing a random quote
 const randomQuote = () => {
